@@ -41,5 +41,8 @@ Answer the following questions based on your understanding of the installation a
 - Your answers should be well-structured, concise, and to the point.
 - Provide screenshots or step-by-step instructions where applicable.
 - Cite any references or sources you use in your answers.
-- Submit your completed assignment by 1st July 
+- Submit your completed assignment by 1st July
+- ANSWERS/SUBMISSION TO THE ASSIGNMENT
+
+[https://docs.google.com/document/d/1Z_RR1vcZxP2F_d3VYbKUbWX3vMWKgDJKSGFX8ktQgd4/edit?usp=sharing](https://github.com/Powerlearnproject/se-assignment-5-bettvincent/blob/main/Installation%20and%20Navigation%20of%20Visual%20Studio%20Code.pdf) THE LINK ABOVE IS A REDIRECTION TO THE ASSIGNMENT DOCUMENTION. ATTACHED TO IT IS A LINK TO MY INITIALIZED GITHUB REPOSITORY
 
